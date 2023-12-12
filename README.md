@@ -1,2 +1,5 @@
 # Bubble Game
-# un simple projet Javascript (DOM)
+
+# Un simple projet Javascript (DOM)
+
+# Lien pour visiter le projet : https://lucasrakoto.github.io/Bubble_Game_JS/
